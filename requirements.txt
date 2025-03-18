@@ -1,0 +1,4 @@
+Streamlit
+pyPDF2
+pandas
+Scikit-learn
